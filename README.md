@@ -1,2 +1,2 @@
 # CPRE288
-labs from fall 2024
+lab8 from fall 2024
